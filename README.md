@@ -1,9 +1,9 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=AbigailVilla/Practica2MSF)
 
 # Práctica: Sistema cardiovascular
 
 ## Información de la estudiante
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Abigail Villa Camacho \[22212276]; L22212276@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -37,7 +37,7 @@ El modelo de Windkessel de cuatro elementos contiene dos elementos dinámicos. P
 
 \2. Existe una clara analogía entre los elementos eléctricos y los componentes hidráulicos implicados en el efecto Windkessel. En consecuencia, se relacionan fácilmente con el significado hemodinámico y el acoplamiento ventrículo-arterial.
 
-Palabras clave: ???; ???; ???; ???; ???
+Palabras clave: Sistema cardiovascular; Controlador PI; Paciente normotenso; Paciente hipotenso; Paciente hipertenso
 
 ## Lista de archivos incluidos en el repositorio
 \1. Cuaderno computacional de MATLAB [.mlx].
