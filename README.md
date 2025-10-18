@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=AbigailVilla/Practica2MSF)
 
-# Práctica: Sistema cardiovascular
+# Práctica 2: Sistema cardiovascular
 
 ## Información de la estudiante
 Abigail Villa Camacho \[22212276]; L22212276@tectijuana.edu.mx
