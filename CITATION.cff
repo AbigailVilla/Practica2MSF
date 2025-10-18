@@ -11,13 +11,13 @@ authors:
     email: L22212276@TECTIJUANA.EDU.MX
     affiliation: TecNM-ITT
 repository-code: >-
-  https://matlab.mathworks.com/open/github/v1?repo=AbigailVilla/Practica1MSF
+  https://matlab.mathworks.com/open/github/v1?repo=AbigailVilla/Practica2MSF
 keywords:
-  - Circuito RLC
-  - Controlador PID
-  - Sistema respiratorio
-  - Modelo matemático
-  - Simulaciones numéricas
+  - Sistema cardiovascular
+  - Controlador PI
+  - Paciente normotenso
+  - Paciente hipotenso
+  - Paciente hipertenso
 license: BSD-2-Clause
 version: 1..0
-date-released: '2025-07-10'
+date-released: '2025-17-10'
